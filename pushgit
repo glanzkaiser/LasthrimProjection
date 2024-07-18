@@ -1,0 +1,5 @@
+git add .
+git commit -m "Glanz-Freya-Lasthrim' Project?"
+git branch -M main
+git remote add origin https://github.com/glanzkaiser/LasthrimProjection.git
+git push -u origin main

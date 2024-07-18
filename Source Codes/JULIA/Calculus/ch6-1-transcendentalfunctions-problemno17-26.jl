@@ -1,0 +1,38 @@
+using SymPy
+@syms x, v, z, t
+
+v1(v) = (6v+9)/(3v^2 + 9v)
+v2(z) = z/(2z^2 + 8)
+v3(x) = (2*log(x))/x
+v4(x) = -1/(x*log(x)^2)
+v5(x) = (x^4)/(2x^5 + pi)
+v6(t) = (t+1)/(2t^2 + 4t + 3)
+v7(x) = (x^2)/(x-1)
+v8(x) = (x^2 + x)/(2x - 1)
+v9(x) = (x^4)/(x + 4)
+v10(x) = (x^3 + x^2)/(x + 2)
+
+V1 = integrate((v1(v)), (v))
+V2 = integrate((v2(z)), (z))
+V3 = integrate((v3(x)), (x))
+V4 = integrate((v4(x)), (x))
+V5 = integrate((v5(x)), (x, 0, 3))
+V6 = integrate((v6(t)), (t, 0, 1))
+V7 = integrate((v7(x)), (x))
+V8 = integrate((v8(x)), (x))
+V9 = integrate((v9(x)), (x))
+V10 = integrate((v10(x)), (x))
+
+println("Computing symbolic integral and definite integral")
+println("a.  ", V1)
+println("b.  ", V2)
+println("c.  ", V3)
+println("d.  ", V4)
+print("e.  ", V5)
+println(" = ", V5.evalf())
+print("f.  ", V6)
+println(" = ", V6.evalf())
+println("g.  ", V7)
+println("h.  ", V8)
+println("i.  ", V9)
+println("j.  ", V10)
