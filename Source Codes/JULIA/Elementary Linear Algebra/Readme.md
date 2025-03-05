@@ -48,23 +48,23 @@ export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:$CUDA_DIR/lib64"
 ## Lasthrim' Galleries for Julia-ElementaryLinearAlgebra
 | Chapter 1: Systems of Linear Equations and Matrices | Gaussian Elimination | 
 | ------------- | ------------- | 
-| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-1-1.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-1-2.png" width="83%"> | 
-| <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20AlgebraElementaryLinearAlgebra.ipynb">ElementaryLinearAlgebra.ipynb</a> |  | 
+| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-1-1.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-1-2.png" width="83%"> | 
+| <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/ElementaryLinearAlgebra.ipynb">ElementaryLinearAlgebra.ipynb</a> |  | 
 
 | Chapter 1: Row Reduction with Variables | Chapter 2: Cramer's Rule | 
 | ------------- | ------------- | 
-| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-1-3.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-2-1.png" width="83%"> | 
+| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-1-3.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-2-1.png" width="83%"> | 
 |  |  | 
 
 | Chapter 3: Euclidean Vector Spaces | Chapter 3: Norm of a Vector in 3-D | 
 | ------------- | ------------- | 
-| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-3-1.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-3-2.png" width="83%"> | 
+| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-3-1.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-3-2.png" width="83%"> | 
 |  |  | 
 
 | Chapter 10: Fractals-Sierpinski Triangle | Coming soon | 
 | ------------- | ------------- | 
-| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebraimages/LPelementarylinalg-10-13-sierpinski.gif" width="83%"> |  | 
-| <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebrach10-13-fractals-sierpinskitriangle1.jl">ch10-13-fractals-sierpinskitriangle1.jl</a> |  | 
+| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/images/LPelementarylinalg-10-13-sierpinski.gif" width="83%"> |  | 
+| <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Elementary%20Linear%20Algebra/ch10-13-fractals-sierpinskitriangle1.jl">ch10-13-fractals-sierpinskitriangle1.jl</a> |  | 
 
 # Source
 
