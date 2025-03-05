@@ -5,11 +5,10 @@ Coverage:
 1. Calculus
 2. Basic Elementary Linear Algebra
 3. Basic Discrete Mathematics
-4. Basic Probability and Statistics
-5. Basic Dynamical System and Bifurcation Theory
-6. Differential Equations
-7. Partial Differential Equation
-8. Introduction to Real Analysis
+4. Basic Dynamical System and Bifurcation Theory
+5. Differential Equations
+6. Partial Differential Equation
+7. Introduction to Real Analysis
 
 # Lasthrim Projection Book
 
