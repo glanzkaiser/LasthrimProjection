@@ -35,6 +35,11 @@ The current book can be seen here (in pdf format):
 | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/images/LPcalculus-4.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/images/LPcalculus-5.png" width="83%"> | 
 | <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/ch4-6-thedefiniteintegral-numericalintegral-trapezoidalruleplot.jl">ch4-6-trapezoidalruleplot</a> | <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/ch5-2-applicationsoftheintegral-problemno19.jl">ch5-2-solidofrevolution</a> | 
 
+| Chapter 6: Transcendental Functions | Chapter 7: Techniques of Integration | 
+| ------------- | ------------- | 
+| <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/images/LPcalculus-6.png" width="83%"> | <img src="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/images/LPcalculus-7.png" width="83%"> | 
+| <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/ch6-3-transcendentalfunctions-problemno29plot.jl">ch6-3-problemno29</a> | <a href="https://github.com/glanzkaiser/LasthrimProjection/blob/main/Source%20Codes/JULIA/Calculus/ch7-5-techniquesofintegration-problemno49computeandplotlogisticdifferentialequation.jl">ch7-5-logisticdifferentialequation</a> | 
+
 ## Lasthrim Projection' Galleries for JULIA-Elementary Linear Algebra
 
 | Chapter 1: Systems of Linear Equations and Matrices | Gaussian Elimination | 
