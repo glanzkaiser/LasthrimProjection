@@ -21,6 +21,6 @@ int main()
 	cout << "\nDerivative of " << gx << " is " << Dxg << endl;
 	cout << "\nf(x) / g(x)  = " << fx/gx << endl;
 	cout << "\nD_{x} f(x) / D_{x} g(x) = " << Dxf/Dxg << endl;
-	cout << "\nlim_{x -> 0^{-}} D_{x}^{2} f(x) / D_{x}^{2} g(x) = " << limit << endl;
+	cout << "\nlim_{x -> 0^{-}} D_{x} f(x) / D_{x} g(x) = " << limit << endl;
 	return 0;
 }
