@@ -16,7 +16,7 @@ Coverage:
 
 The current book can be seen here (in pdf format):
 
-<a href="https://drive.google.com/file/d/1xqVpHr8bpyXP_wv9jq4IFGNxF1U4XvJ6/view?usp=sharing">Lasthrim Projection book (March 19th, 2025)</a> 
+<a href="https://drive.google.com/file/d/1w35-rPrDWBHKxUNh5XSyzjAN1--BvAfY/view?usp=sharing">Lasthrim Projection book (March 30th, 2025)</a> 
 
 ## Lasthrim Projection' Galleries for JULIA-Calculus
 
